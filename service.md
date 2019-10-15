@@ -1,4 +1,4 @@
-service: Loc 36 services
+# service: Loc 36 services
 
 At this time, the Loc 36 system is championed by the following services:
 
@@ -18,5 +18,6 @@ this service.
 (csp)](https://github.com/loc36-dev/lp):__ This service provides
 information about things coming soon to the system.
 
-* __[Next](https://github.com/loc36-arch/README/blob/master/service.md)__
-* __[Home](https://github.com/loc36-arch/README)__
+ __[Next >>](https://github.com/loc36-arch/README/blob/master/service.md)__
+ | 
+ __[Home](https://github.com/loc36-arch/README)__
