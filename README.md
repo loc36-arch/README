@@ -16,4 +16,4 @@ been received so far. And when the user wishes to know the power status of locat
 their interface requests it for them (from the server), and the interface presents it to
 them.
 
-__[Next >>}(https://github.com/loc36-arch/README/blob/master/service.md)__
+__[Next >>](https://github.com/loc36-arch/README/blob/master/service.md)__

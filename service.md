@@ -17,3 +17,6 @@ this service.
 * __[Coming-soon provider 
 (csp)](https://github.com/loc36-dev/lp):__ This service provides
 information about things coming soon to the system.
+
+* __[Next](https://github.com/loc36-arch/README/blob/master/service.md)__
+* __[Home](https://github.com/loc36-arch/README)__
